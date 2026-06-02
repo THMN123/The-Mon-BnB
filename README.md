@@ -1,22 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# The Mon BnB
 
-# Run and deploy your AI Studio app
+A premium web application for The Mon BnB stay. Calibrated architecture framing beautiful countryside and towering mountains. Raw brick charm made for slow restoration.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/66650a25-9d78-457e-ae4d-0bf39717a36d
+- **Luxury Suites Booking**: Explore and configure residencies.
+- **Architectural Minimalism**: Crafted with Outfit, Cormorant Garamond, and Tailwind CSS.
+- **Apex Remote Workspace**: Built for deep focus and productivity.
+- **Interactive Residency Gate**: Allocation management system for exclusive bookings.
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+- Node.js (v18 or higher recommended)
+- npm
+
+### Installation
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
 
-# The-Mon-BnB
+2. Set up your environment variables:
+   Create a `.env.local` file based on `.env.example` and set your `GEMINI_API_KEY`.
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Made By
+
+Developed and designed by [apex.dev](https://apex.dev).

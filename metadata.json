@@ -1,0 +1,6 @@
+{
+  "name": "The Mon BnB",
+  "description": "A luxury hospitality landing page representing the premium, architectural charm of The Mon BnB stay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
